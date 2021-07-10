@@ -104,14 +104,14 @@ img{
 }
 .contents-box-info{
   padding:20px;
-  height:128px;
+  height:168px;
   display:flex;
   flex-direction: column;
 }
 .contents-box-info h2{
   font-size:18px;
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 150%;
 }
 .contents-box-info time{
   margin-top:auto;
