@@ -104,7 +104,7 @@ img{
 }
 .contents-box-info{
   padding:20px;
-  height:168px;
+  height:128px;
   display:flex;
   flex-direction: column;
 }
